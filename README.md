@@ -1,1 +1,1 @@
-I upload my some practice at Data Structures.
+I upload my some practices at Data Structures.
